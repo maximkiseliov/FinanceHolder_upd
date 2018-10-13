@@ -11,7 +11,7 @@ conn = sqlite3.connect(sqlite_file)
 
 # Drop-box part
 drop_box_file = '/FinanceHolderDB.sqlite'
-token_MK = 'lNvVQGGrElgAAAAAAAB6lMUT80T8ShPtdNp4u8z0iiHPPcJiEs0vvkWBBoFJFyDF'
+token_MK = ''
 
 
 # CREATE finances TABLE
